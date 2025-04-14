@@ -2,8 +2,8 @@
 
 This Tableau dashboard presents a full-year analysis of sales performance in 2023, comparing it with the previous year (2022). It provides insights into total sales, profit, and quantity, as well as detailed views by product subcategory and weekly trends.
 
-![<img width="1003" alt="image" src="https://github.com/user-attachments/assets/6b1d18c1-c095-473b-8274-dc0fc8366bd0" />
-](image.png)
+![Sales Dashboard Screenshot](Dashboard.jpg)
+
 
 ## 🔍 Key Highlights
 
